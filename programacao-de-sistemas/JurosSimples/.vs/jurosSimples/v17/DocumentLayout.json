@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Aluno\\atividades\\programacaodesistemas\\jurosSimples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD9C271-3192-481F-A20B-579788523BAF}|jurosSimples\\jurosSimples.csproj|d:\\users\\aluno\\atividades\\programacaodesistemas\\jurossimples\\jurossimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD9C271-3192-481F-A20B-579788523BAF}|jurosSimples\\jurosSimples.csproj|solutionrelative:jurossimples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Aluno\\atividades\\programacaodesistemas\\jurosSimples\\jurosSimples\\Program.cs",
+              "RelativeDocumentMoniker": "jurosSimples\\Program.cs",
+              "ToolTip": "D:\\Users\\Aluno\\atividades\\programacaodesistemas\\jurosSimples\\jurosSimples\\Program.cs",
+              "RelativeToolTip": "jurosSimples\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:16:45.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Users\Aluno\atividades\programacaodesistemas\Cinema2\Cinema2\bin\Debug\net8.0\Cinema2.exe
+D:\Users\Aluno\atividades\programacaodesistemas\Cinema2\Cinema2\bin\Debug\net8.0\Cinema2.deps.json
+D:\Users\Aluno\atividades\programacaodesistemas\Cinema2\Cinema2\bin\Debug\net8.0\Cinema2.runtimeconfig.json
+D:\Users\Aluno\atividades\programacaodesistemas\Cinema2\Cinema2\bin\Debug\net8.0\Cinema2.dll
+D:\Users\Aluno\atividades\programacaodesistemas\Cinema2\Cinema2\bin\Debug\net8.0\Cinema2.pdb
+D:\Users\Aluno\atividades\programacaodesistemas\Cinema2\Cinema2\obj\Debug\net8.0\Cinema2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\atividades\programacaodesistemas\Cinema2\Cinema2\obj\Debug\net8.0\Cinema2.AssemblyInfoInputs.cache
+D:\Users\Aluno\atividades\programacaodesistemas\Cinema2\Cinema2\obj\Debug\net8.0\Cinema2.AssemblyInfo.cs
+D:\Users\Aluno\atividades\programacaodesistemas\Cinema2\Cinema2\obj\Debug\net8.0\Cinema2.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\atividades\programacaodesistemas\Cinema2\Cinema2\obj\Debug\net8.0\Cinema2.dll
+D:\Users\Aluno\atividades\programacaodesistemas\Cinema2\Cinema2\obj\Debug\net8.0\refint\Cinema2.dll
+D:\Users\Aluno\atividades\programacaodesistemas\Cinema2\Cinema2\obj\Debug\net8.0\Cinema2.pdb
+D:\Users\Aluno\atividades\programacaodesistemas\Cinema2\Cinema2\obj\Debug\net8.0\Cinema2.genruntimeconfig.cache
+D:\Users\Aluno\atividades\programacaodesistemas\Cinema2\Cinema2\obj\Debug\net8.0\ref\Cinema2.dll

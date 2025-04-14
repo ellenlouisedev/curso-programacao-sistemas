@@ -1,0 +1,14 @@
+D:\Users\Aluno\atividades\programacaodesistemas\Notas\Notas\bin\Debug\net8.0\Notas.exe
+D:\Users\Aluno\atividades\programacaodesistemas\Notas\Notas\bin\Debug\net8.0\Notas.deps.json
+D:\Users\Aluno\atividades\programacaodesistemas\Notas\Notas\bin\Debug\net8.0\Notas.runtimeconfig.json
+D:\Users\Aluno\atividades\programacaodesistemas\Notas\Notas\bin\Debug\net8.0\Notas.dll
+D:\Users\Aluno\atividades\programacaodesistemas\Notas\Notas\bin\Debug\net8.0\Notas.pdb
+D:\Users\Aluno\atividades\programacaodesistemas\Notas\Notas\obj\Debug\net8.0\Notas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Aluno\atividades\programacaodesistemas\Notas\Notas\obj\Debug\net8.0\Notas.AssemblyInfoInputs.cache
+D:\Users\Aluno\atividades\programacaodesistemas\Notas\Notas\obj\Debug\net8.0\Notas.AssemblyInfo.cs
+D:\Users\Aluno\atividades\programacaodesistemas\Notas\Notas\obj\Debug\net8.0\Notas.csproj.CoreCompileInputs.cache
+D:\Users\Aluno\atividades\programacaodesistemas\Notas\Notas\obj\Debug\net8.0\Notas.dll
+D:\Users\Aluno\atividades\programacaodesistemas\Notas\Notas\obj\Debug\net8.0\refint\Notas.dll
+D:\Users\Aluno\atividades\programacaodesistemas\Notas\Notas\obj\Debug\net8.0\Notas.pdb
+D:\Users\Aluno\atividades\programacaodesistemas\Notas\Notas\obj\Debug\net8.0\Notas.genruntimeconfig.cache
+D:\Users\Aluno\atividades\programacaodesistemas\Notas\Notas\obj\Debug\net8.0\ref\Notas.dll
